@@ -12,12 +12,13 @@ This project leverages Amazon Web Services (Lex and Lambda).
 
 ## Usage
 
-AWS (Amazon Web Services) account of student was used to create the robo advisor using Lex and Lambda services.
+Student's AWS (Amazon Web Services) account was used to create the robo advisor using Lex and Lambda services.
 
 A python script of final Lambda function is uploaded in file final_lambda_function.py in the main repository path.
 
 Following two short videos have been uploaded in the Videos folder:
-
+1) Initial Robo Advisor - amazon_lex_video
+2) Enhanced Robo Advisor - amazon_lambda_video
 
 ---
 
